@@ -19,11 +19,11 @@
 019 Db_i1ZCSq-8 DONE
 020 Db9iWMLx-LL DONE
 021 Db6KNjTxGpD DONE
-022 Db4aVVexww3 todo
-023 Db10ysbRQzz todo
-024 DbwYwqrS-KT todo
-025 DbuEAVRxWKj todo
-026 DbrFvAdP0Vb todo
+022 Db4aVVexww3 DONE
+023 Db10ysbRQzz DONE
+024 DbwYwqrS-KT DONE
+025 DbuEAVRxWKj DONE
+026 DbrFvAdP0Vb DONE
 027 DbmbQqFxDrK todo
 028 DbjWCcjyPuP todo
 029 DbhVQcBx1Az todo
