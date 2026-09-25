@@ -8,7 +8,7 @@ Each batch of edited videos is uploaded as a zip in `zips/`. Captions + hashtags
 | amish_videos_batch2_part1_r12-r16.zip | r12–r16 (2 long, 3 short) | ✅ |
 | amish_videos_batch2_part2_r17-r21.zip | r17, r18, r19, r20, r21 (Batch 2 Part 2 (reels 17-21)) | ✅ |
 
-Progress: 56/177 reels done.
+Progress: 61/177 reels done.
 | amish_videos_batch2_part3_r22-r26.zip | r22, r23, r24, r25, r26 (Batch 2 Part 3 (reels 22-26)) | ✅ |
 | amish_videos_batch3_part1_r27-r31.zip | r27, r28, r29, r30, r31 (Batch 3 Part 1 (reels 27-31)) | ✅ |
 | amish_videos_batch3_part2_r32-r36.zip | r32, r33, r34, r35, r36 (Batch 3 Part 2 (reels 32-36)) | ✅ |
@@ -16,6 +16,7 @@ Progress: 56/177 reels done.
 | amish_videos_batch4_part2_r42-r46.zip | r42, r43, r44, r45, r46 (Batch 4 Part 2 (reels 42-46)) | ✅ |
 | amish_videos_batch5_part1_r47-r51.zip | r47, r48, r49, r50, r51 (Batch 5 Part 1 (reels 47-51)) | ✅ |
 | amish_videos_batch5_part2_r52-r56.zip | r52, r53, r54, r55, r56 (Batch 5 Part 2 (reels 52-56)) | ✅ |
+| amish_videos_batch6_part1_r57-r61.zip | r57, r58, r59, r60, r61 (Batch 6 Part 1 (reels 57-61)) | ✅ |
 
 Music in long videos: "Wholesome" Kevin MacLeod (incompetech.com), CC BY 4.0 — credit line included in captions.
 B-roll: Pexels (free license). Thumbnails: AI-generated.
